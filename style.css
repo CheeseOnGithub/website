@@ -15,10 +15,13 @@ body {
 
 .center_div {
     padding: 15px;
-    padding-top: 40vh;
     display: grid;
     place-content: center;
     text-align: center;
+}
+
+.center_div_top {
+    padding-top: 40vh;
 }
 
 #typewriter {
